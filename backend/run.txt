@@ -1,0 +1,4 @@
+// in command prompt
+// cd "C:\Users\akshi\Downloads\disaster-relief-coordination-system-main\disaster-relief-coordination-system-main\frontend\relief"
+ //npm install
+// npm start
